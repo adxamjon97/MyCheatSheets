@@ -1,15 +1,16 @@
 # C# (sharp) dasturlash tili
 
 ### Hello world
+
 ```cs
 using System;
 
 namespace Program{
-	class Prog{
-		static void Main(string[] args){
-			Console.WriteLine("Hello world");
-		}
-	}
+  class Prog{
+    static void Main(string[] args){
+      Console.WriteLine("Hello world");
+    }
+  }
 }
 ```
 
@@ -23,11 +24,11 @@ ReadKey();
 ### O'zgaruvchilarni turlari
 
 ```cs
-int 	myNum 		= 5;
-double 	myDoubleNum = 5.99D;
-char 	myLetter 	= 'D';
-bool 	myBool 		= true;
-string	myText 		= "Hello";
+int    myNum       = 5;
+double myDoubleNum = 5.99D;
+char   myLetter    = 'D';
+bool   myBool      = true;
+string myText      = "Hello";
 ```
 
 // const type var = value; // o'zgarmas qiymat beriladi const yordamida
@@ -131,7 +132,7 @@ class Program{
   }
 
   static void Main(){
-	  MyMethod(); // chaqirish
+    MyMethod(); // chaqirish
   }
 }
 ```
