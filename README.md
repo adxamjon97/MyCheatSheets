@@ -7,12 +7,12 @@ Mening kodlar yozilgan yon daftarcham.
 | T/r | Das. tili  | vaqt |
 | --- | ---------- | ---- |
 | 1   | Paskal     | 2013 |
-| 2   | C/C++      | 2015 |
-| 3   | Java       | 2017 |
-| 4   | Python     | 2018 |
+| 2   | [C](cLang.md)/[C++](cpp.md)      | 2015 |
+| 3   | [Java](java.md)       | 2017 |
+| 4   | [Python ](python.md)    | 2018 |
 | 5   | Assimbler  | 2019 |
 | 6   | JavaScript | 2020 |
-| 7   | C#         | 2021 |
+| 7   | [C#](cSharp.md)         | 2021 |
 
 *Yuqorida keltirilganlarni qisman o'zlashtirganman.
 Python JavaScript asosiy dasturlash tillarimdan biri.
