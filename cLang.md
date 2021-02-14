@@ -29,21 +29,21 @@ chiqadi konsolda.
 
 Mavzu larga o'tish:
 
-	[O'zgaruvchi](langs/cLang/variable.md)
+[O'zgaruvchi](langs/cLang/variable.md)
 	
-	[struktura](langs/cLang/struct.md)
+[Struktura](langs/cLang/struct.md)
 	
-	[header](langs/cLang/header.md)
+[Header](langs/cLang/header.md)
 	
-	[funksya](langs/cLang/function.md)
+[Funksya](langs/cLang/function.md)
 	
-	[fayl](langs/cLang/file.md)
+[Fayl](langs/cLang/file.md)
 	
-	[konsol](langs/cLang/console.md) - to'g'ridan to'g'ri kiritish chiqarish
+[Konsol](langs/cLang/console.md) - to'g'ridan to'g'ri kiritish chiqarish
 	
-	[scanf](langs/cLang/consoleIn.md) - konsoldan kiritish funksyasi
+[scanf](langs/cLang/consoleIn.md) - konsoldan kiritish funksyasi
 	
-	[printf](langs/cLang/consoleOut.md) - konsolga chiqarish funksyasi
+[Printf](langs/cLang/consoleOut.md) - konsolga chiqarish funksyasi
 
 ### Konstanta
 
