@@ -29,7 +29,7 @@ chiqadi konsolda.
 
 Mavzu larga o'tish:
 
-[O'zgaruvchi](langs/cLang/variable.md)
+[O'zgaruvchi](langs/cLang/vareable.md)
 	
 [Struktura](langs/cLang/struct.md)
 	
