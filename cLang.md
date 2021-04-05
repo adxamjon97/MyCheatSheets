@@ -1,4 +1,4 @@
-## C dasturlash tili
+ ## C dasturlash tili
 
 C - kompyuterga eng yaqin, past darajali va kompilatsya bo'luvchi dasturlash tili.
 
